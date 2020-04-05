@@ -1,3 +1,5 @@
+package entities;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -31,6 +33,10 @@ public class Prestador {
         this.telefono = new ArrayList<Integer>();
 
         this.email = new ArrayList<String>();
+
+    }
+
+    public Prestador(){
 
     }
 

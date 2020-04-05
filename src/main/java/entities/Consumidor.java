@@ -1,3 +1,5 @@
+package entities;
+
 public class Consumidor {
 
     private String nombre;

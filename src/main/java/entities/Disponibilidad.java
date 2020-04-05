@@ -1,3 +1,5 @@
+package entities;
+
 public class Disponibilidad {
     private String dia;
     private int horaInicio;

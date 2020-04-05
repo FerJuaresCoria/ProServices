@@ -1,3 +1,5 @@
+package entities;
+
 public class Calificacion {
 
     private int estrellas;

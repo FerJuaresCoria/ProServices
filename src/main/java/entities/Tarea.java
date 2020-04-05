@@ -1,3 +1,5 @@
+package entities;
+
 public class Tarea {
 
     private String descripcion;

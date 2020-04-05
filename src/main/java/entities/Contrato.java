@@ -1,3 +1,5 @@
+package entities;
+
 public class Contrato {
 
     private Prestador prestador;
